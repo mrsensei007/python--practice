@@ -15,3 +15,15 @@ print("Even numbers:", evens)
 names = ["amit", "rahul", "neha"]
 upper_names = [name.upper() for name in names]
 print("Uppercase Names:", upper_names)
+
+
+#Slicing
+# slicing_examples.py
+
+nums = [0,1,2,3,4,5,6,7,8,9]
+
+print("First 5:", nums[:5])
+print("Last 3:", nums[-3:])
+print("Middle:", nums[3:7])
+print("Step slicing:", nums[::2])   # every 2nd element
+print("Reverse:", nums[::-1])
