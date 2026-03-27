@@ -87,21 +87,5 @@ http://127.0.0.1:8000/docs
   "answer": "Machine Learning is a concept used in technology to solve problems and improve efficiency."
 }
 ```
-
----
-
-## 💡 Learning Outcome
-
-Through this repository, I practiced:
-
-* Writing clean and structured Python code
-* Understanding core programming concepts
-* Working with loops, conditions, and data structures
-* Exploring APIs and building a basic FastAPI application
-* Gaining hands-on experience with real-world coding workflows
-
----
-
-## 📌 Note
-
-This repository is part of my continuous learning process, and I will keep updating it with more concepts and examples.
+<img width="1900" height="878" alt="image" src="https://github.com/user-attachments/assets/4d93598d-4f6f-4901-beb6-ceffbd15b906" />
+<img width="1782" height="893" alt="image" src="https://github.com/user-attachments/assets/0b302aea-5554-4bac-b191-c9997eceef39" />
