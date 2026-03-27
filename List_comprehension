@@ -1,0 +1,17 @@
+# list_comprehension.py
+
+numbers = [i for i in range(10)]
+print("Numbers:", numbers)
+
+# if we wannt squares
+squares = [i**2 for i in range(10)]
+print("Squares:", squares)
+
+#or Even numbers 
+evens = [i for i in range(20) if i % 2 == 0]
+print("Even numbers:", evens)
+
+# convert lower case to upper case :
+names = ["amit", "rahul", "neha"]
+upper_names = [name.upper() for name in names]
+print("Uppercase Names:", upper_names)
